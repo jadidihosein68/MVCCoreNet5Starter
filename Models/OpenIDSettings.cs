@@ -6,7 +6,6 @@
         public string ClientSecret { get; set; }
         public string ADFSDiscoveryDoc { get; set; }
         public string PostredirectURI { get; set; }
-        public string DefaultRole { get; set; }
         public string InternalDomain { get; set; }
 
     }
